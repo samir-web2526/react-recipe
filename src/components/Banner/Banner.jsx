@@ -1,10 +1,10 @@
-import banner from "../../../assets/images/banner.jpg";
+// import banner from "../../../images/banner.jpg";
 const Banner = () => {
   return (
     <div>
       <div
         className="bg-cover bg-no-repeat h-[500px] rounded-2xl flex flex-col justify-center items-center gap-8 mt-4 mx-20"
-        style={{ backgroundImage: `url(${banner})` }}
+        style={{ backgroundImage: `url('/images/banner.jpg')` }}
       >
        
           <h1 className="text-4xl text-white font-semibold">

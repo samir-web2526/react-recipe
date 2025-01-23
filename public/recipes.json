@@ -1,57 +1,56 @@
 [
-    {
-      "recipe_id": 1,
-      "recipe_name": "Spaghetti Carbonara",
-      "short_description": "A rich and creamy Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
-      "ingredients": ["Spaghetti", "Egg yolks", "Pancetta",  "Olive oil"],
-      "preparing_time": "25 minutes",
-      "calories": "420 calories",
-      "recipe_image": "/assets/images/Classic Spaghetti Carbonara.jpg"
-    },
-    {
-      "recipe_id": 2,
-      "recipe_name": "Chicken Caesar Salad",
-      "short_description": "Crispy romaine lettuce tossed in creamy Caesar dressing,topped with grilled chicken.",
-      "ingredients": ["Romaine lettuce", "Grilled chicken breast", "Parmesan cheese"],
-      "preparing_time": "20 minutes",
-      "calories": "350 calories",
-      "recipe_image": "/assets/images/Chicken Caesar Salad.jpg"
-    },
-    {
-      "recipe_id": 3,
-      "recipe_name": "Vegetable Stir-Fry",
-      "short_description": "A quick and healthy mix of stir-fried vegetables with a savory sauce.",
-      "ingredients": ["Broccoli", "Carrots", "Bell peppers",  "Sesame oil"],
-      "preparing_time": "15 minutes",
-      "calories": "200 calories",
-      "recipe_image": "/assets/images/Vegetable Stir-Fry.jpg"
-    },
-    {
-      "recipe_id": 4,
-      "recipe_name": "Mutton Tacos",
-      "short_description": "Savory seasoned beef served in warm tortillas with your favorite toppings.",
-      "ingredients": ["Ground beef", "Taco seasoning", "Tomatoes", "Sour cream"],
-      "preparing_time": "30 minutes",
-      "calories": "450 calories",
-      "recipe_image": "/assets/images/Mutton Tacos.jpg"
-    },
-    {
-      "recipe_id": 5,
-      "recipe_name": "Margherita Pizza",
-      "short_description": "A classic pizza topped with fresh tomatoes, and basil leaves.",
-      "ingredients": ["Pizza dough", "Tomato sauce", "Olive oil"],
-      "preparing_time": "40 minutes",
-      "calories": "300 calories",
-      "recipe_image": "/assets/images/Margherita Pizza.jpg"
-    },
-    {
-      "recipe_id": 6,
-      "recipe_name": "Blueberry Pancakes",
-      "short_description": "Fluffy pancakes loaded with fresh blueberries, perfect for breakfast.",
-      "ingredients": ["Milk", "Eggs", "Baking powder", "Sugar", "Butter"],
-      "preparing_time": "20 minutes",
-      "calories": "290 calories",
-      "recipe_image": "/assets/images/Blueberry Pancakes.jpg"
-    }
-  ]
-  
+  {
+    "recipe_id": 1,
+    "recipe_name": "Spaghetti Carbonara",
+    "short_description": "A rich and creamy Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+    "ingredients": ["Spaghetti", "Egg yolks", "Pancetta", "Olive oil"],
+    "preparing_time": "25 minutes",
+    "calories": "420 calories",
+    "recipe_image": "/images/pizza.jpg"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Chicken Caesar Salad",
+    "short_description": "Crispy romaine lettuce tossed in creamy Caesar dressing, topped with grilled chicken.",
+    "ingredients": ["Romaine lettuce", "Grilled chicken breast", "Parmesan cheese"],
+    "preparing_time": "20 minutes",
+    "calories": "350 calories",
+    "recipe_image": "/images/chik.jpg"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Vegetable Stir-Fry",
+    "short_description": "A quick and healthy mix of stir-fried vegetables with a savory sauce.",
+    "ingredients": ["Broccoli", "Carrots", "Bell peppers", "Sesame oil"],
+    "preparing_time": "15 minutes",
+    "calories": "200 calories",
+    "recipe_image": "/images/v.jpg"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Mutton Tacos",
+    "short_description": "Savory seasoned beef served in warm tortillas with your favorite toppings.",
+    "ingredients": ["Ground beef", "Taco seasoning", "Tomatoes", "Sour cream"],
+    "preparing_time": "30 minutes",
+    "calories": "450 calories",
+    "recipe_image": "/images/mutton.jpg"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Margherita Pizza",
+    "short_description": "A classic pizza topped with fresh tomatoes, and basil leaves.",
+    "ingredients": ["Pizza dough", "Tomato sauce", "Olive oil"],
+    "preparing_time": "40 minutes",
+    "calories": "300 calories",
+    "recipe_image": "/images/pizza.jpg"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Blueberry Pancakes",
+    "short_description": "Fluffy pancakes loaded with fresh blueberries, perfect for breakfast.",
+    "ingredients": ["Milk", "Eggs", "Baking powder", "Sugar", "Butter"],
+    "preparing_time": "20 minutes",
+    "calories": "290 calories",
+    "recipe_image": "/images/pan.jpg"
+  }
+]
